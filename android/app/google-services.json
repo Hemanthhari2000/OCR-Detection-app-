@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799795871861",
+    "firebase_url": "https://ocr-detection-88510.firebaseio.com",
+    "project_id": "ocr-detection-88510",
+    "storage_bucket": "ocr-detection-88510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799795871861:android:11c0aec32674f769cd383c",
+        "android_client_info": {
+          "package_name": "com.hemanthk.ocr_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799795871861-9e1kp1rdh5l2o6jpjaemimdg5bf6086k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRrsua__isljLWgKIlwU1YBQhfkRTMUE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799795871861-9e1kp1rdh5l2o6jpjaemimdg5bf6086k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
